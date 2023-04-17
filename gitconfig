@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rabbani.amal@gmail.com
+	name = Amal Rabbani rabbani.amal@gmail.com
